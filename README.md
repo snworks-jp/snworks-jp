@@ -8,7 +8,7 @@
 
 楽譜、演奏会のプログラムや写真を、ひとつにまとめて管理できるWindows向けの楽譜管理アプリです。PDFの楽譜やYouTubeの動画をアプリ内で開け、曲名や作曲家名の一部で検索できます。買い切り580円。
 
-- [紹介ページ](https://snworks-jp.github.io/Introduction/ScoreMate_Introduction.html)
+- [紹介ページ](https://snworks-jp.github.io/Introduction/pages/ScoreMate_Introduction.html)
 - [Microsoft Storeで入手する](https://apps.microsoft.com/detail/9MXH6PHVT0MZ)
 
 ---
